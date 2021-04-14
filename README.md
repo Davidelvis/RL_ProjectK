@@ -1,5 +1,6 @@
 # The Anatomy of Simple Reinforcement Learning
 ##Reinforcement Learning
+![img.png](img.png)
 It is where a decision-making system is trained to make optimal decisions
 An agent acting in an environment. At every point in time, 
 the agent observes the state of the environment and decides on an action that changes the state. For each such action, the agent is given a reward signal. The agent’s role is to maximize the total received reward.
