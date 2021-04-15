@@ -39,5 +39,10 @@ if __name__=="__main__":
 
 """
 MONITOR
+
+Another class that you should be aware of is Monitor . It is implemented like
+Wrapper and can write information about your agent's performance in a file, with
+an optional video recording of your agent in action.
 """
+
 
